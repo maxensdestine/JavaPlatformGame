@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="slick2dlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/slick2dlib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/natives-mac.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/jnlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/ibxm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/Pack200Task.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/tinylinepp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slick2dlib/slick-examples.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
